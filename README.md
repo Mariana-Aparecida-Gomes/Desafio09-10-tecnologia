@@ -6,7 +6,7 @@
 ![Wireframe](https://github.com/Mariana-Aparecida-Gomes/Desafio09-10-tecnologia/blob/main/img/Wireframe.png)
 
 # Imagens
-![Imagens]
+![Imagens](https://github.com/Mariana-Aparecida-Gomes/Desafio09-10-tecnologia/blob/main/img/Imagens.png)
 
 # Ícones
 ![Ícones](https://github.com/Mariana-Aparecida-Gomes/Desafio09-10-tecnologia/blob/main/img/Icones.png)
